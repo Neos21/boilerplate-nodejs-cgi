@@ -124,7 +124,6 @@ const main = async (postBody) => {
 <html lang="ja">
   <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Hello Node.js CGI</title>
   </head>
